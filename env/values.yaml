@@ -21,6 +21,6 @@ jenkins:
   Servers:
     Global:
       EnvVars:
-        DOCKER_REGISTRY: 1118504922878.dkr.ecr.us-east-2.amazonaws.com
+        DOCKER_REGISTRY: 118504922878.dkr.ecr.us-east-2.amazonaws.com
         TILLER_NAMESPACE: kube-system
 prow: {}
