@@ -16,3 +16,6 @@ dependencies:
 - name: jm21
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: tag
+  repository: http://jenkins-x-chartmuseum:8080
+  version: found
